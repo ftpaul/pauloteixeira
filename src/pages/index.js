@@ -19,10 +19,12 @@ const IndexPage = ({ data }) => { return (
       />
     </div>
     <div class="container-text">
-    <h1>Paulo Teixeira</h1>
-    <p>I've been working on digital business for more than 5 years. Currently, I work at <a href="https://unbabel.com">Unbabel</a>.</p>
-    <p> Thinking is something we are not able to do alone, that's why I like to collaborate with different people to reach the best solutions.</p>
-    <p>Feel free to reach me out if you need help thinking by <a href="mailto:ftpaul+web@gmail.com">email</a> or on <a href="https://www.linkedin.com/in/ftpaul/">LinkdeIn</a>.</p>
+    <h1>Hey there, I'm <strong>Paulo Teixeira</strong></h1>
+    <p>I'm enabling the way the world interacts with <a href="https://unbabel.com">Unbabel</a> by working with designers and developers on all of its public-facing web properties.</p>
+    {/* <p>+2 +3 +2 </p> */}
+    <p>Previously </p>
+    <p>Overall I spent  </p>
+    <p>Let's connect via <a href="mailto:ftpaul+web@gmail.com">email</a> or <a href="https://www.linkedin.com/in/ftpaul/">LinkdeIn</a>.</p>
     </div>
   </Layout>
   </>)
